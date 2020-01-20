@@ -1,0 +1,4 @@
+What is the maximum number of exchanges involving any particular element
+during selection sort? => N when the first item of thearray found in the first index
+
+What is the average number of exchanges involving an element?  1
