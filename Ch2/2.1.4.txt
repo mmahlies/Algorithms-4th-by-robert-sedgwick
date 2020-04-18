@@ -1,0 +1,16 @@
+Show, in the style of the example trace with Algorithm 2.2, how insertion sort
+sorts the array E A S Y Q U E S T I O N.
+
+i j  0 1 2 3 4 5 6 7 8 9 10 11			Result
+	 E A S Y Q U E S T I O  N
+1 1  A E S ...							swapp 1 item
+2 2  A E S ...
+3 3  A E S Y......    
+4 4  A E S Q Y							swapp 1 item
+5 5  A E S Q u y 						swapp 1 item
+6 6  A E E s Q u y						swapp  5 item
+7 7  A E E s s Q u y					swapp  3 item
+8 8  A E E s s T Q u y                  swapp  3 item
+9 9  A E E i s s t q u y ....			Swapp 6 items
+10 10A E E i o s s t q u y ...			swapp
+11 11A E E i n o s s t q u y  			swapp

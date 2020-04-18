@@ -1,0 +1,7 @@
+Suppose that we use insertion sort on a randomly ordered array where elements
+have only one of three values. Is the running time linear, quadratic, or something in
+between?
+
+Since it is randomly sorted, I think that would mean that the insertion sort would have to perform many more times the number of operations that the number
+ of values. If that's the case, then its not linear.So, it would likely be quadratic, or perhaps a little below quadratic.
+ so I think it is below quadratic
