@@ -1,0 +1,2 @@
+the idea is make one loop to bring first small item to the begining of the array 
+after that u donthave to check for the index

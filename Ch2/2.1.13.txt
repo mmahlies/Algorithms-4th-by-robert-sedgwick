@@ -1,0 +1,4 @@
+Two solution
+
+1- use shellsort algorithm with override compare method to compare by suit then by value.
+2- use two shell sort algorithms one for suit and then for value.
