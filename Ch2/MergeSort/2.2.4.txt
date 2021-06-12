@@ -1,0 +1,1 @@
+Yes. The merge phase uses two pointers that move comparing both subarray values.

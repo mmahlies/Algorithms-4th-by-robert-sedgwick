@@ -1,0 +1,61 @@
+				0 1 2 3 4 5 6 7 8 9 10 11				
+				E A S Y Q U E S T I O N
+	Sort(A, 0, 11) 
+		mid=>5
+		Sort(A, 0, 5)
+			mid=>2
+			Sort(A, 0, 2)
+				mid=>1
+				Sort(A, 0, 1)
+					mid=>0
+					sort(A, 0, 0)
+					sort(A, 1, 1)	
+					merge(A, 0, 0, 1)
+				Sort(A, 2, 2)
+				merge(A, 0, 1, 2)
+			sort(A, 3, 5)
+				mid=>4
+				sort(a,3,4) 
+					mid=>3
+					sort(a,3,3)
+					sort(a,4,4)
+					merge(a,3,3,4)					
+				sort(a,5,5)
+				merge(a,3,4,5)	
+			merge(A, 0, 2, 5)
+		sort(A, 6, 11)	
+			mid=>8
+			sort(a,6,8)
+				mid=>7
+				sort(a,6,7)
+					mid =>6					
+					sort(a,6,6)
+					sort(a,7,7)
+					merge(6,6,7)
+				sort(a,8,8)					
+				merge(a,6,7,8)
+			sort(a,9,11)
+				mid =>10					
+					sort(a,9,10)
+						mid =>9					
+						sort(a,9,9)
+						sort(a,10,10)
+						merge(a,9,9,10)
+					sort(a,11,11)
+					merge(9,10,11)
+			merge(a,6,8,11)
+		merge(A, 0, 5, 11)
+			
+			
+			
+			
+			
+			
+sort(a,l,h)
+{
+	mid =
+	sort(a,0,mid)
+	sort(a, mid+1, h)
+	merge(a,0, mid , h)
+}
+		
