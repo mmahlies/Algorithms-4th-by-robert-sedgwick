@@ -1,0 +1,9 @@
+
+			unordered array, ordered array, unordered linked list and linked list.
+Insert			1					n				1						n
+GetMax			n					1				n						1
+
+
+
+
+

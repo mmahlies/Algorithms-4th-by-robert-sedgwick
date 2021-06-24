@@ -1,0 +1,12 @@
+Yes
+but not nessery to be sorted in decreseing order
+The to folling example is correct 
+
+array [10,9,7]
+			10
+		9			7
+
+
+array [10,7,9]
+				10
+		7				9
