@@ -1,0 +1,6 @@
+a. floor("Q")   =>Q
+b. select(5)    =>Q
+c. ceiling("Q") =>Q
+d. rank("J") => 3
+e. size("D", "T")  
+f. keys("D", "T")

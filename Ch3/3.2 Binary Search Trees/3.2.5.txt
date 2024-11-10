@@ -1,0 +1,4 @@
+inserted in best practise order
+
+Neither inserting the keys in increasing or decreasing order of likely frequency of access will be the optimal approach.
+This problem is known as creating an optimal-binary search tree (Optimal BST).

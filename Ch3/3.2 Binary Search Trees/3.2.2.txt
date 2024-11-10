@@ -1,0 +1,25 @@
+A B C D E F G h i j k l m n o p q r s t u v w x y z
+A X C S E R H
+
+					A
+						X
+					C	
+						s
+					E
+						R
+					H	
+					
+					
+A
+	b
+		c
+			d
+				e
+					f
+					
+					
+
+bcdef
+
+ghijk					
+					
